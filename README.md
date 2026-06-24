@@ -20,7 +20,7 @@ This project recreates the look and feel of Spotify's user interface using only 
 
 ## Project Screenshots
 
-![Spotify UI Clone](screenchots/Clone.png)
+![Spotify UI Clone](Clone.png)
 
 
 
